@@ -1,0 +1,1 @@
+A C++ library offering essential data structures (linked lists, stacks, queues, BST) and algorithms (sorting, searching) for efficient data management and problem-solving. Templated for versatility and designed with modern C++ practices.
